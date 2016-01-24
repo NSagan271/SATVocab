@@ -104,6 +104,170 @@
         <item>venerable</item>
         <item>vindicate</item>
         <item>wary</item>
+
+        <item>abase</item>
+        <item>abduct</item>
+        <item>abet</item>
+        <item>abhor</item>
+        <item>abide</item>
+        <item>abject</item>
+        <item>abjure</item>
+        <item>abnegation</item>
+        <item>abort</item>
+        <item>abridge</item>
+        <item>abrogate</item>
+        <item>abscond</item>
+        <item>absolution</item>
+        <item>abstruse</item>
+        <item>accede</item>
+        <item>accentuate</item>
+        <item>accessible</item>
+        <item>acclaim</item>
+        <item>accolade</item>
+        <item>accommodating</item>
+        <item>accord</item>
+        <item>accost</item>
+        <item>accretion</item>
+        <item>acerbic</item>
+        <item>acquiesce</item>
+        <item>acrimony</item>
+        <item>acumen</item>
+        <item>acute</item>
+        <item>adamant</item>
+        <item>adept</item>
+        <item>adhere</item>
+        <item>admonish</item>
+        <item>adorn</item>
+        <item>adroit</item>
+        <item>adulation</item>
+        <item>adumbrate</item>
+        <item>adverse</item>
+        <item>advocate</item>
+        <item>aerial</item>
+        <item>affable</item>
+        <item>affinity</item>
+        <item>affluent</item>
+        <item>affront</item>
+        <item>aggrandize</item>
+        <item>aggregate</item>
+        <item>aggrieved</item>
+
+        <item>agile</item>
+        <item>agnostic</item>
+        <item>agriculture</item>
+        <item>aisle</item>
+        <item>alacrity</item>
+        <item>alias</item>
+        <item>allay</item>
+        <item>allege</item>
+        <item>alleviate</item>
+        <item>allocate</item>
+        <item>aloof</item>
+        <item>altercation</item>
+        <item>amalgamate</item>
+        <item>ambiguous</item>
+        <item>ambivalent</item>
+        <item>ameliorate</item>
+        <item>amenable</item>
+        <item>amenity</item>
+        <item>amorous</item>
+        <item>amorphous</item>
+        <item>analgesic</item>
+        <item>analogous</item>
+        <item>anarchist </item>
+
+        <item>anathema</item>
+        <item>anecdote</item>
+        <item>anesthesia</item>
+        <item>anguish</item>
+        <item>animated</item>
+        <item>annex</item>
+        <item>annul</item>
+        <item>anomaly</item>
+        <item>anonymous</item>
+        <item>antagonism</item>
+        <item>antecedent</item>
+        <item>antediluvian</item>
+        <item>anthology</item>
+        <item>antipathy</item>
+        <item>antiquated</item>
+        <item>antiseptic</item>
+        <item>antithesis</item>
+        <item>anxiety</item>
+        <item>apathetic</item>
+        <item>apocryphal</item>
+        <item>appalling</item>
+        <item>appease</item>
+        <item>appraise</item>
+
+        <item>apprehend</item>
+        <item>approbation</item>
+        <item>appropriate</item>
+        <item>aquatic</item>
+        <item>arable </item>
+        <item>arbiter</item>
+        <item>arbitrary</item>
+        <item>arbitration</item>
+        <item>arboreal</item>
+        <item>arcane</item>
+        <item>archaic</item>
+        <item>archetypal</item>
+        <item>ardor</item>
+        <item>arrogate</item>
+        <item>artifact</item>
+        <item>artisan</item>
+        <item>ascertain</item>
+        <item>ascetic</item>
+        <item>ascribe</item>
+        <item>aspersion</item>
+        <item>aspire</item>
+        <item>assail</item>
+        <item>assess</item>
+
+        <item>assiduous</item>
+        <item>assuage</item>
+        <item>astute</item>
+        <item>atone</item>
+        <item>atrophy</item>
+        <item>attain</item>
+        <item>attribute</item>
+        <item>atypical</item>
+        <item>audacious</item>
+        <item>audible</item>
+        <item>augment</item>
+        <item>auspicious</item>
+        <item>austere</item>
+        <item>avarice</item>
+        <item>avenge</item>
+        <item>aversion</item>
+        <item>balk</item>
+        <item>ballad</item>
+        <item>banal</item>
+        <item>bane</item>
+        <item>bard</item>
+        <item>bashful</item>
+        <item>battery</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </string-array>
 
     <string-array name="definitions">
@@ -123,7 +287,7 @@
         <item>Unrestrained by convention; bold</item>
         <item>Marked by rude shortness</item>
         <item>Quality of affording sociability</item>
-        <item>Showing self-interest in dealing with others</item>
+        <item>Shrewd, careful</item>
         <item>Large in the amount that can be contained</item>
         <item>Surrender under agreed conditions</item>
         <item>Someone perceiving things not present to the senses</item>
@@ -142,7 +306,7 @@
         <item>To hold in low esteem</item>
         <item>A lack of respect; intense dislike</item>
         <item>Tending to move apart in different directions</item>
-        <item>Understanding another's feelings</item>
+        <item>Understanding another\'s feelings</item>
         <item>Strive to equal; imitate</item>
         <item>Causing weakness or debilitation</item>
         <item>Anything short-lived</item>
@@ -207,5 +371,150 @@
         <item>Profoundly honored</item>
         <item>Show to be right by providing justification or proof</item>
         <item>Marked by keen caution and prudence</item>
+
+        <item>To humiliate, to degrade</item>
+        <item>To kidnap, take by force</item>
+        <item>To aid, assist, encourage</item>
+        <item>To hate, detest</item>
+        <item>To put up with; to remain</item>
+        <item>Wretched, pitiful</item>
+        <item>To reject, renounce</item>
+        <item>Denial of comfort to oneself</item>
+        <item>To give up on a half-finished project or effort</item>
+        <item>To cut down, shorten; shortened</item>
+        <item>To abolish, usually by authority</item>
+        <item>To sneak away and hide</item>
+        <item>Freedom from blame, guilt, sin</item>
+        <item>Hard to comprehend</item>
+        <item>To agree</item>
+        <item>To stress, highlight</item>
+        <item>Obtainable, reachable</item>
+        <item>High praise</item>
+        <item>High praise, special distinction</item>
+        <item>Helpful, obliging, polite</item>
+        <item>An agreement</item>
+        <item>To confront verbally</item>
+        <item>Slow growth in size or amount</item>
+
+        <item>Biting, bitter in tone or taste</item>
+        <item>To agree without protesting</item>
+        <item>Bitterness, discord</item>
+        <item>Keen insight</item>
+        <item>Sharp, severe; having keen insight</item>
+        <item>Impervious, immovable, unyielding</item>
+        <item>Extremely skilled</item>
+        <item>To stick to something; to follow devoutly</item>
+        <item>To caution, criticize, reprove</item>
+        <item>To decorate</item>
+        <item>Skillful, dexterous</item>
+        <item>Extreme praise</item>
+        <item>To sketch out in a vague way</item>
+        <item>Antagonistic, unfavorable, dangerous</item>
+        <item>To argue in favor of; a person who argues in favor</item>
+        <item>Somehow related to the air</item>
+        <item>Friendly, amiable</item>
+        <item>A spontaneous feeling of closeness</item>
+        <item>Rich, wealthy</item>
+        <item>An insult</item>
+        <item>To increase or make greater</item>
+        <item>A whole or total; to gather into a mass</item>
+        <item>Distressed, wronged, injured</item>
+
+        <item>Quick, nimble</item>
+        <item>Doubting the existence of God</item>
+        <item>Farming</item>
+        <item>A passageway between rows of seats</item>
+        <item>Eagerness, speed</item>
+        <item>A false name or identity</item>
+        <item>To soothe, ease , put to rest</item>
+        <item>To assert, usually without proof</item>
+        <item>To relieve, make more bearable</item>
+        <item>To distribute, set aside</item>
+        <item>Reserved, distant</item>
+        <item>A dispute, fight</item>
+        <item.>To bring together, unite</item.>
+        <item>Uncertain, variably interpretable</item>
+        <item>Having opposing feelings</item>
+        <item>To improve</item>
+        <item>Willing, compliant</item>
+        <item>An item that increases comfort</item>
+        <item>Showing love, particularly affectionate</item>
+        <item>Without a fixed or definitive shape or type</item>
+        <item>Something that reduces pain</item>
+        <item>Similar to, so that an analogy can be drawn</item>
+        <item>One who opposes and wants to eliminate all forms of government and law</item>
+
+        <item>Something cursed, a detestable person</item>
+        <item>A short, humorous account</item>
+        <item>A substance that causes loss of sensation</item>
+        <item>Extreme sadness, torment</item>
+        <item>Lively</item>
+        <item>To incorporate a space; a space attached to a larger space</item>
+        <item>To make void or invalid</item>
+        <item>Something that does not fit into the normal order</item>
+        <item>Being unknown, unrecognized</item>
+        <item>Hostility</item>
+        <item>Something that came before</item>
+        <item>Ancient; before Noah’s flood</item>
+        <item>A selected collection of writings, songs, etc</item>
+        <item>A strong dislike, repugnance</item>
+        <item>Old, out of date</item>
+        <item>Clean, sterile</item>
+        <item>The absolute opposite</item>
+        <item>Intense uneasiness</item>
+        <item>Lacking concern, non-emotional</item>
+        <item>Probably fictitious, probably false or wrong</item>
+        <item>Inspiring shock, horror, disgust</item>
+        <item>To calm, satisfy</item>
+        <item>To assess worth or value</item>
+
+        <item>To seize, arrest; To perceive, understand, grasp</item>
+        <item>Praise</item>
+        <item>To take and make use of</item>
+        <item>Relating to water</item>
+        <item>Suitable for growing crops</item>
+        <item>One who can resolve a dispute or make a decision</item>
+        <item>Based on random factors</item>
+        <item>The process or act of resolving a dispute</item>
+        <item>Of or relating to trees</item>
+        <item>Obscure, secret, known only by a few</item>
+        <item>Of or relating to an earlier period in time, outdated</item>
+        <item>The most representative or typical example of something</item>
+        <item>Extreme vigor, energy, enthusiasm</item>
+        <item>To take without justification</item>
+        <item>A remaining piece from an extinct culture or place</item>
+        <item>A craftsman</item>
+        <item>To perceive, to receive, to learn</item>
+        <item>Practicing restraint as a means of self-discipline, usually religious</item>
+        <item>To assign, credit, attribute to</item>
+        <item>A curse, expression of ill-will</item>
+        <item>To long for or to aim toward</item>
+        <item>To attack</item>
+        <item>To evaluate</item>
+
+        <item>Hard-working, diligent</item>
+        <item>To ease, pacify</item>
+        <item>Very clever, crafty</item>
+        <item>To repent, make amends</item>
+        <item>To wither away, decay</item>
+        <item>To achieve, arrive at</item>
+        <item>To credit, assign; a facet or trait</item>
+        <item>Not typical, unusual</item>
+        <item>Excessively bold</item>
+        <item>Able to be heard</item>
+        <item>To add to, expand</item>
+        <item>Favorable, indicative of good things</item>
+        <item>Very bare, bleak</item>
+        <item>Excessive greed</item>
+        <item>To seek revenge</item>
+        <item>A particular dislike for something</item>
+        <item>To stop, block abruptly</item>
+        <item>A love song</item>
+        <item>Dull, commonplace</item>
+        <item>A cause of harm, ruin, or death</item>
+        <item>A poet, or a singer</item>
+        <item>Shy, excessively timid</item>
+        <item>A device that supplies power; assault, beating</item>
+
     </string-array>
 </resources>
