@@ -16,7 +16,7 @@ import java.util.Random;
 /**
  * Created by Naomi on 1/23/2016.
  */
-public class Question {
+public class  Question {
     String[] words;
     String[] def;
     Boolean quest=true;
