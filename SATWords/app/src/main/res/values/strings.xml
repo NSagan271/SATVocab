@@ -1,0 +1,211 @@
+<resources>
+    <string name="app_name">SAT Words</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="words">
+        <item>abate</item>
+        <item>abdicate</item>
+        <item>aberration</item>
+        <item>abstain</item>
+        <item>adversity</item>
+        <item>aesthetic</item>
+        <item>amicable</item>
+        <item>anachronistic</item>
+        <item>arid</item>
+        <item>asylum</item>
+        <item>benevolent</item>
+        <item>bias</item>
+        <item>boisterous</item>
+        <item>brazen</item>
+        <item>brusque</item>
+        <item>camaraderie</item>
+        <item>canny</item>
+        <item>capacious</item>
+        <item>capitulate</item>
+        <item>clairvoyant</item>
+        <item>collaborate</item>
+        <item>compassion</item>
+        <item>compromise</item>
+        <item>condescending</item>
+        <item>conditional</item>
+        <item>conformist</item>
+        <item>conundrum</item>
+        <item>convergence</item>
+        <item>deleterious</item>
+        <item>demagogue</item>
+        <item>digression</item>
+        <item>diligent</item>
+        <item>discredit</item>
+        <item>disdain</item>
+        <item>divergent</item>
+        <item>empathy</item>
+        <item>emulate</item>
+        <item>enervating</item>
+        <item>ephemeral</item>
+        <item>evanescent</item>
+        <item>exemplary</item>
+        <item>extenuating</item>
+        <item>florid</item>
+        <item>forbearance</item>
+        <item>fortitude</item>
+        <item>fortuitous</item>
+        <item>foster</item>
+        <item>fraught</item>
+        <item>frugal</item>
+        <item>hackneyed</item>
+        <item>haughty</item>
+        <item>hedonist</item>
+        <item>hypothesis</item>
+        <item>impetuous</item>
+        <item>impute</item>
+        <item>inconsequential</item>
+        <item>inevitable</item>
+        <item>intrepid</item>
+        <item>intuitive</item>
+        <item>jubilation</item>
+        <item>lobbyist</item>
+        <item>longevity</item>
+        <item>mundane</item>
+        <item>nonchalant</item>
+        <item>opulent</item>
+        <item>orator</item>
+        <item>ostentatious</item>
+        <item>parched</item>
+        <item>perfidious</item>
+        <item>pragmatic</item>
+        <item>precocious</item>
+        <item>pretentious</item>
+        <item>procrastinate</item>
+        <item>prosaic</item>
+        <item>prosperity</item>
+        <item>provocative</item>
+        <item>prudent</item>
+        <item>querulous</item>
+        <item>rancorous</item>
+        <item>reclusive</item>
+        <item>reconciliation</item>
+        <item>renovation</item>
+        <item>restrained</item>
+        <item>reverence</item>
+        <item>sagacity</item>
+        <item>scrutinize</item>
+        <item>spontaneous</item>
+        <item>spurious</item>
+        <item>submissive</item>
+        <item>substantiate</item>
+        <item>subtle</item>
+        <item>superficial</item>
+        <item>superfluous</item>
+        <item>surreptitious</item>
+        <item>tactful</item>
+        <item>tenacious</item>
+        <item>transient</item>
+        <item>venerable</item>
+        <item>vindicate</item>
+        <item>wary</item>
+    </string-array>
+
+    <string-array name="definitions">
+        <item>Become less in amount or intensity</item>
+        <item>Give up, such as power of monarchs</item>
+        <item>A condition markedly different from the norm</item>
+        <item>Choose not to consume</item>
+        <item>A state of misfortune</item>
+        <item>Characterized by an appreciation of beauty</item>
+        <item>Characterized by friendship</item>
+        <item>Chronologically misplaced</item>
+        <item>Lacking sufficient water</item>
+        <item>A shelter from hardship</item>
+        <item>Motivated by sympathy</item>
+        <item>A partiality preventing objectivity</item>
+        <item>Exuberant</item>
+        <item>Unrestrained by convention; bold</item>
+        <item>Marked by rude shortness</item>
+        <item>Quality of affording sociability</item>
+        <item>Showing self-interest in dealing with others</item>
+        <item>Large in the amount that can be contained</item>
+        <item>Surrender under agreed conditions</item>
+        <item>Someone perceiving things not present to the senses</item>
+        <item>Work together</item>
+        <item>A deep sympathy</item>
+        <item>An agreement where both sides make concessions</item>
+        <item>Treating others with arrogance</item>
+        <item>Depending on an assumption</item>
+        <item>Someone who follows standards of conduct</item>
+        <item>A difficult problem</item>
+        <item>The act of coming closer</item>
+        <item>Harmful to living things</item>
+        <item>A leader seeking support by appealing to popular passions</item>
+        <item>A turning aside</item>
+        <item>Steadily persevering in exactness</item>
+        <item>To hold in low esteem</item>
+        <item>A lack of respect; intense dislike</item>
+        <item>Tending to move apart in different directions</item>
+        <item>Understanding another's feelings</item>
+        <item>Strive to equal; imitate</item>
+        <item>Causing weakness or debilitation</item>
+        <item>Anything short-lived</item>
+        <item>Tending to vanish like vapor</item>
+        <item>Excellent; worthy of imitation</item>
+        <item>Partially excusing or justifying</item>
+        <item>Excessively ornamented</item>
+        <item>A delay in enforcing rights or claims</item>
+        <item>Strength of mind that enables one to endure adversity</item>
+        <item>Occurring by happy chance; fortunate</item>
+        <item>Providing nurture but not related by blood or legal ties</item>
+        <item>Filled with or attended with</item>
+        <item>Avoiding waste</item>
+        <item>Repeated too often; overused</item>
+        <item>Showing arrogant superiority towards</item>
+        <item>Someone motivated by desires for sensual pleasures</item>
+        <item>A tentative insight into the natural world</item>
+        <item>Characterized by undue haste and lack of thought</item>
+        <item>Attribute or credit to</item>
+        <item>Lacking importance</item>
+        <item>Incapable of being avoided</item>
+        <item>Invulnerable to fear or intimidation</item>
+        <item>Spontaneously derived from a natural tendency</item>
+        <item>Extreme joy</item>
+        <item>Someone employed to persuade how legislators vote</item>
+        <item>The property of being long-lived</item>
+        <item>Found in the ordinary course of events</item>
+        <item>Marked by blithe unconcern</item>
+        <item>Rich and superior in quality</item>
+        <item>Person who delivers a speech</item>
+        <item>Intended to attract notice and impress others</item>
+        <item>Dried out by heat or sunlight</item>
+        <item>Tending to betray</item>
+        <item>Concerned with practical matters</item>
+        <item>Characterized by exceptionally early development</item>
+        <item>Creating an appearance of importance</item>
+        <item>Postpone doing what one should be doing</item>
+        <item>Lacking wit or imagination</item>
+        <item>The condition of having good fortune</item>
+        <item>Serving to excite or stimulate</item>
+        <item>Marked by sound judgment</item>
+        <item>Habitually complaining</item>
+        <item>Showing deep-seated resentment</item>
+        <item>Withdrawn from society</item>
+        <item>The reestablishing of cordial relations</item>
+        <item>The act of improving by restoring</item>
+        <item>Under control</item>
+        <item>A feeling of profound respect</item>
+        <item>Acuteness of mental discernment; wisdom</item>
+        <item>Examine carefully for accuracy</item>
+        <item>Done without having been planned in advance</item>
+        <item>Plausible but false</item>
+        <item>Inclined to give in to wishes of others</item>
+        <item>Establish, as with new evidence or facts</item>
+        <item>Difficult to detect or analyze</item>
+        <item>Of, affecting, or being on or near the surface</item>
+        <item>More than is needed, desired, or required</item>
+        <item>Marked by quiet, caution, secrecy</item>
+        <item>Considerate and discreet in dealing with others</item>
+        <item>Stubbornly unyielding</item>
+        <item>Lasting a very short time</item>
+        <item>Profoundly honored</item>
+        <item>Show to be right by providing justification or proof</item>
+        <item>Marked by keen caution and prudence</item>
+    </string-array>
+</resources>
