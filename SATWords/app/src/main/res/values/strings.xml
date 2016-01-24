@@ -250,24 +250,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     </string-array>
 
     <string-array name="definitions">
@@ -369,7 +351,7 @@
         <item>Stubbornly unyielding</item>
         <item>Lasting a very short time</item>
         <item>Profoundly honored</item>
-        <item>Show to be right by providing justification or proof</item>
+        <item>Show to be right by providing justification</item>
         <item>Marked by keen caution and prudence</item>
 
         <item>To humiliate, to degrade</item>
@@ -442,14 +424,14 @@
         <item>Without a fixed or definitive shape or type</item>
         <item>Something that reduces pain</item>
         <item>Similar to, so that an analogy can be drawn</item>
-        <item>One who opposes and wants to eliminate all forms of government and law</item>
+        <item>One who opposes all forms of government and law</item>
 
         <item>Something cursed, a detestable person</item>
         <item>A short, humorous account</item>
         <item>A substance that causes loss of sensation</item>
         <item>Extreme sadness, torment</item>
         <item>Lively</item>
-        <item>To incorporate a space; a space attached to a larger space</item>
+        <item>To incorporate a space; an attached space</item>
         <item>To make void or invalid</item>
         <item>Something that does not fit into the normal order</item>
         <item>Being unknown, unrecognized</item>
@@ -485,7 +467,7 @@
         <item>A remaining piece from an extinct culture or place</item>
         <item>A craftsman</item>
         <item>To perceive, to receive, to learn</item>
-        <item>Practicing restraint as a means of self-discipline, usually religious</item>
+        <item>Practicing restraint as a means of self-discipline</item>
         <item>To assign, credit, attribute to</item>
         <item>A curse, expression of ill-will</item>
         <item>To long for or to aim toward</item>
@@ -515,6 +497,8 @@
         <item>A poet, or a singer</item>
         <item>Shy, excessively timid</item>
         <item>A device that supplies power; assault, beating</item>
+
+
 
     </string-array>
 </resources>
