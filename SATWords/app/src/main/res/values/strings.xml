@@ -248,6 +248,102 @@
         <item>bashful</item>
         <item>battery</item>
 
+        <item>beguile</item>
+        <item>behemoth</item>
+        <item>benign</item>
+        <item>bequeath</item>
+        <item>berate</item>
+        <item>bereft</item>
+        <item>beseech</item>
+        <item>bilk</item>
+        <item>blandish</item>
+        <item>blemish</item>
+        <item>blight</item>
+        <item>bombastic</item>
+        <item>boon</item>
+        <item>bourgeois</item>
+        <item>buffet</item>
+        <item>burnish</item>
+        <item>buttress</item>
+        <item>cacophony</item>
+        <item>cadence</item>
+        <item>cajole</item>
+        <item>calamity</item>
+        <item>calibrate</item>
+        <item>callous</item>
+
+        <item>calumny</item>
+        <item>candor</item>
+        <item>canvas</item>
+        <item>capricious</item>
+        <item>captivate</item>
+        <item>carouse</item>
+        <item>carp</item>
+        <item>catalog</item>
+        <item>catalyze</item>
+        <item>caucus</item>
+        <item>caustic</item>
+        <item>cavort</item>
+        <item>censure</item>
+        <item>cerebral</item>
+        <item>chaos</item>
+        <item>chastise</item>
+        <item>cherish</item>
+        <item>chide</item>
+        <item>choreography</item>
+        <item>chronicle</item>
+        <item>chronological</item>
+        <item>circuitous</item>
+        <item>circumlocution</item>
+
+        <item>circumscribed</item>
+        <item>circumspect</item>
+        <item>circumvent</item>
+        <item>clamor</item>
+        <item>clandestine</item>
+        <item>cleave</item>
+        <item>clemency</item>
+        <item>clergy</item>
+        <item>cloying</item>
+        <item>coagulate</item>
+        <item>coalesce</item>
+        <item>cobbler</item>
+        <item>coerce</item>
+        <item>cogent</item>
+        <item>cognizant</item>
+        <item>coherent</item>
+        <item>collateral</item>
+        <item>colloquial</item>
+        <item>collusion</item>
+        <item>colossus</item>
+        <item>commendation</item>
+        <item>commensurate</item>
+        <item>commodious</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     </string-array>
@@ -311,7 +407,7 @@
         <item>Lacking importance</item>
         <item>Incapable of being avoided</item>
         <item>Invulnerable to fear or intimidation</item>
-        <item>Spontaneously derived from a natural tendency</item>
+        <item>Ability to understand without direct evidence or reasoning</item>
         <item>Extreme joy</item>
         <item>Someone employed to persuade how legislators vote</item>
         <item>The property of being long-lived</item>
@@ -403,7 +499,7 @@
         <item>Distressed, wronged, injured</item>
 
         <item>Quick, nimble</item>
-        <item>Doubting the existence of God</item>
+        <item>Not believing in a God</item>
         <item>Farming</item>
         <item>A passageway between rows of seats</item>
         <item>Eagerness, speed</item>
@@ -431,7 +527,7 @@
         <item>A substance that causes loss of sensation</item>
         <item>Extreme sadness, torment</item>
         <item>Lively</item>
-        <item>To incorporate a space; an attached space</item>
+        <item>To incorporate a space; a space attached to a larger space</item>
         <item>To make void or invalid</item>
         <item>Something that does not fit into the normal order</item>
         <item>Being unknown, unrecognized</item>
@@ -497,6 +593,84 @@
         <item>A poet, or a singer</item>
         <item>Shy, excessively timid</item>
         <item>A device that supplies power; assault, beating</item>
+
+        <item>To trick, deceive</item>
+        <item>Large creature; something of tremendous size</item>
+        <item>Favorable, not threatening, mild</item>
+        <item>To pass on in a will, give or donate legally</item>
+        <item>To scold vehemently</item>
+        <item>Devoid of, without</item>
+        <item>To beg, plead, implore</item>
+        <item>Cheat, defraud</item>
+        <item>To coax by using flattery</item>
+        <item>An imperfection, flaw</item>
+        <item>A plague, disease</item>
+        <item>Excessively confident, pompous</item>
+        <item>A gift or blessing</item>
+        <item>An upper middle-class person</item>
+        <item>To strike with force; arrangement of food on a table</item>
+        <item>To polish, shine</item>
+        <item>To support, hold up; something that offers support</item>
+        <item>Tremendous noise, disharmonious sound</item>
+        <item>A rhythm, progression of sound</item>
+        <item>To urge, coax</item>
+        <item>An event with disastrous consequences</item>
+        <item>To set, standardize</item>
+        <item>Harsh, cold, unfeeling</item>
+
+        <item>Slander; an attempt to spoil a reputation through lies</item>
+        <item>Honesty, frankness</item>
+        <item>A piece of cloth for an artist to paint; to cover, inspect</item>
+        <item>Subject to whim, fickle</item>
+        <item>To get the attention of, hold</item>
+        <item>To party, celebrate</item>
+        <item>To annoy, pester</item>
+        <item>To list, enter onto a list; a list or collection</item>
+        <item>To charge, inspire</item>
+        <item>A meeting held by people working toward the same goal</item>
+        <item>Bitter, biting, acidic</item>
+        <item>To leap about, behave boisterously</item>
+        <item>Harsh criticism; to rebuke formally</item>
+        <item>Related to the intellect</item>
+        <item>Absolute disorder</item>
+        <item>To criticize severely</item>
+        <item>To feel or show deep affection toward something</item>
+        <item>To voice disapproval</item>
+        <item>the arrangement of dances</item>
+        <item>A written history; to write a detailed history</item>
+        <item>Arranged in order of time</item>
+        <item>roundabout</item>
+        <item>Indirect and wordy language</item>
+
+        <item>commodious</item>
+        <item>Cautious; aware of what is around you</item>
+        <item>To go around an established route or authority</item>
+        <item>Loud noise; to loudly insist</item>
+        <item>Secret</item>
+        <item>To divide into parts; to stick together firmly</item>
+        <item>Mercy</item>
+        <item>Members of Christian holy orders</item>
+        <item>Sickeningly sweet</item>
+        <item>To thicken, clot</item>
+        <item>To fuse into a whole</item>
+        <item>A person who makes or repairs shoes</item>
+        <item>To make somebody do something by force or threat</item>
+        <item>Intellectually convincing</item>
+        <item>Aware, mindful</item>
+        <item>Logically consistent, intelligible</item>
+        <item>Secondary ; security for a debt</item>
+        <item>Characteristic of informal conversation</item>
+        <item>Secret agreement, conspiracy</item>
+        <item>A gigantic statue or thing</item>
+        <item>A notice of approval or recognition</item>
+        <item>Corresponding in size or amount</item>
+        <item>Roomy</item>
+
+
+
+
+
+
 
 
 
